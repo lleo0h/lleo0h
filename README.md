@@ -1,3 +1,3 @@
 ```js
-Backend Programmer JavaScript/Typescript
+Backend Programmer JavaScript/TypeScript
 ```
